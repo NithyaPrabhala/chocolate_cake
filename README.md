@@ -1,1 +1,1 @@
-# chocolate_cake
+A simple recipe for a chocolate cake.
